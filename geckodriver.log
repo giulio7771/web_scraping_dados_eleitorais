@@ -1,0 +1,91 @@
+1601242106946	geckodriver	INFO	Listening on 127.0.0.1:51107
+1601242109976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\giuliog\\AppData\\Local\\Temp\\rust_mozprofileWG8xV2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601242111933	Marionette	INFO	Listening on port 51115
+1601242111985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7410 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7410 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 1463 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 1463 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3505 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3505 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4838 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4838 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13256, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\giuliog\AppData\Local\Temp\rust_mozprofileWG8xV2\protections.sqlite
+1601244789683	Marionette	INFO	Stopped listening on port 51115
+e: Error reading cache file:" (new Error("", "(unknown module)"))
+1601242164553	Marionette	INFO	Listening on port 60690
+1601242164628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 269: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 85 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 85 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2871 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2871 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7007 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7007 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4331 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4331 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 9652, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601244794142	Marionette	INFO	Stopped listening on port 60690
+\rust_mozprofilegr7G2B"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601244698005	Marionette	INFO	Listening on port 61068
+1601244698089	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14220, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601244796660	Marionette	INFO	Stopped listening on port 61068
+rror: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601244717322	Marionette	INFO	Listening on port 61113
+1601244717423	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8956, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601244778374	Marionette	INFO	Stopped listening on port 61113
+\rust_mozprofile3qTdan"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601244758188	Marionette	INFO	Listening on port 61170
+1601244758551	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16244, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601244774713	Marionette	INFO	Stopped listening on port 61170
+1601246526440	geckodriver	INFO	Listening on 127.0.0.1:50344
+1601246529504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\giuliog\\AppData\\Local\\Temp\\rust_mozprofileweNcLN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601246531874	Marionette	INFO	Listening on port 50352
+1601246532131	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601246557619	Marionette	INFO	Stopped listening on port 50352
